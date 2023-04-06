@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: pink;
+}
+
+body{margin:auto;
+width: 400px;
+padding: 50px;
+}
+
